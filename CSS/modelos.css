@@ -107,3 +107,33 @@ h1.main-title {
 .footer-right {
   margin-right: 16px;
 }
+.main-h2{
+  color:black;
+  font-family: Arial;
+  padding: auto;
+  text-align: justify;
+  padding-left: 800px;
+}
+.main-Bolt {
+  color:black;
+  font-size: 12px;
+  font-family: Arial;
+  padding: auto;
+  text-align: justify;
+  padding-left: 800px;
+}
+.main-h3{
+  color:black;
+  font-family: Arial;
+  padding: auto;
+  text-align: justify;
+  padding-left: 800px;
+}
+.main-iEV330P {
+  color:black;
+  font-size: 12px;
+  font-family: Arial;
+  padding: auto;
+  text-align: justify;
+  padding-left: 800px;
+}
